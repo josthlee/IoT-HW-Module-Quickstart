@@ -1,6 +1,7 @@
 # Official
 
-https://github.com/waveshare/WM8960-Audio-HAT
+* https://www.waveshare.net/wiki/WM8960_Audio_HAT
+* https://github.com/waveshare/WM8960-Audio-HAT
 
 ![24751703722068_ pic](https://github.com/josthlee/IoT-Quickstart/assets/154501794/29dc94cf-56dc-4cfd-a804-298b4496df50)
 ![24761703722068_ pic](https://github.com/josthlee/IoT-Quickstart/assets/154501794/2f245e5f-1cd2-4cb4-bbcc-7f24cfb9c5d7)
