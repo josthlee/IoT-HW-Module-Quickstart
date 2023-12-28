@@ -1,3 +1,7 @@
+### WM8960-Audio-HAT on Raspberry Pi Model 3B+
+
+![24821703725072_ pic](https://github.com/josthlee/IoT-Quickstart/assets/154501794/2648098f-ba52-48b7-93e6-65e5332e4719)
+
 ### System update and upgrade
 
 ```
